@@ -201,6 +201,17 @@ class LinkedList(object):
             list.
         """
         return self.extract(-1)
+    int main()
+    {
+        node*head=null;
+        node*second=null;
+        node*third=null;
+        
+        head=new node();
+        second=new node();
+        third=new node();
+    }
+        
 
 class DoublyLinkedList(LinkedList):
     """
